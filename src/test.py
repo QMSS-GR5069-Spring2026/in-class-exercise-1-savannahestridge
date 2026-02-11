@@ -1,3 +1,3 @@
 # Test Python Script
 
-y = 20
+import pandas as pd
